@@ -59,6 +59,16 @@ This project showcases synthetic data generation results: deploying ComfyUI on a
 
 ### Video Samples
 <p align="center">
-  <video src="./video/climbing1.mp4" controls width="400" style="margin: 10px;"></video>
-  <video src="./video/climbing2.mp4" controls width="400" style="margin: 10px;"></video>
+  <em>Click on thumbnails below to play videos</em>
+</p>
+<p align="center">
+  <!-- First video: thumbnail links to video file -->
+  <a href="./video/climbing1.mp4" title="Click to play climbing1.mp4">
+    <img src="./img/thumbnail/climbing1_thumb.png" alt="climbing1" width="400" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <!-- Second video: thumbnail links to video file -->
+  <a href="./video/climbing2.mp4" title="Click to play climbing2.mp4">
+    <img src="./img/thumbnail/climbing2_thumb.png" alt="climbing2" width="400" />
+  </a>
 </p>
